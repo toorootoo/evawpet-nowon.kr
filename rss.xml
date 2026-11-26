@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>이바우펫 노원점</title>
+    <link>https://evawpet-nowon.kr/</link>
+    <description>노원 애견미용학원 이바우펫 노원점. 4·7호선 노원역 9번 출구 도보 3분, 월~목 오전·오후·야간반과 토요일 집중·보강반으로 100% 가정견 실습을 배워요. 도봉·의정부·중랑에서도 가까워요.</description>
+    <language>ko</language>
+    <lastBuildDate>Thu, 26 Nov 2026 15:54:00 +0900</lastBuildDate>
+    <atom:link href="https://evawpet-nowon.kr/rss.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://evawpet-nowon.kr/og-image.jpg</url>
+      <title>이바우펫 노원점</title>
+      <link>https://evawpet-nowon.kr/</link>
+    </image>
+    <item>
+      <title>노원 애견미용학원 이바우펫 | 기간·수강료·커리큘럼 안내</title>
+      <link>https://evawpet-nowon.kr/</link>
+      <guid isPermaLink="true">https://evawpet-nowon.kr/</guid>
+      <description>이바우펫 노원점은 서울 노원구 상계로3길 21 5층 501호, 4·7호선 노원역 9번 출구에서 도보 3분 거리에 있어요. 월~목 오전(11:00–15:00)·오후(15:00–18:00)·야간(18:00–21:30)반과 토요일 집중·보강반(11:00–19:00)을 운영하고, 금요일·일요일은 쉬어요. 100% 가정견 실습과 개별 진도 수업으로 애견미용자격증 3급·2급(각 약 3개월)부터 취업·창업 준비까지 배울 수 있어요. 수강료와 장학지원은 상담 신청 폼이나 전화(010-2608-8298)로 안내해 드려요.</description>
+      <pubDate>Thu, 26 Nov 2026 15:54:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
